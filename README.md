@@ -79,4 +79,4 @@ sudo apt remove --purge bspwm sxhkd rofi polybar kitty picom zsh neofetch bat ls
 
 ## Credits
 
-- **Author:** [Riieiro](https://github.com/Riieiro)
+- **Author:** [Py-Us3r](https://github.com/Py-Us3r)
