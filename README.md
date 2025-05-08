@@ -1,7 +1,7 @@
 
 # bspwm-setup
 
-bspwm-setup is a bash script designed to automatically set up a custom bspwm environment for https://github.com/Riieiro. 
+bspwm-setup is a bash script designed to automatically set up a custom bspwm environment for https://github.com/Py-Us3r. 
 
 ## Prerequisites
 
