@@ -33,14 +33,15 @@ chmod +x setup.sh
 
 Once the environment is installed, you need to change it in the login panel:
 
-![imagen](https://github.com/user-attachments/assets/500a63c9-3b1a-4608-b23f-0e5af0c7c66d)
+![imagen](https://github.com/user-attachments/assets/14dd75f1-0631-40d5-8dfa-4d73e19ba59f)
+
 
 
 ## Overview
-![imagen](https://github.com/user-attachments/assets/5d27f12c-ae04-4808-b329-91f8deff3794)
-![imagen](https://github.com/user-attachments/assets/9708ab8a-362a-44bf-a1cb-fcc62cd5891a)
-![imagen](https://github.com/user-attachments/assets/a28a5c37-6828-4a18-abfe-b2e24cabbdae)
-![imagen](https://github.com/user-attachments/assets/02128d09-a90e-4ee0-886f-4cc5f5cf1eb6)
+![imagen](https://github.com/user-attachments/assets/448e979e-44d8-48cc-81ed-9296b6308e23)
+![imagen](https://github.com/user-attachments/assets/1d54d0e7-e135-48b9-99ad-e4c518cb242f)
+![imagen](https://github.com/user-attachments/assets/d536ecad-73e3-4bb8-922d-2b7a86a0d7b1)
+![imagen](https://github.com/user-attachments/assets/914c1290-23f5-4cf4-b718-f4bb0748cfe9)
 
 # Keybindings for bspwm
 
